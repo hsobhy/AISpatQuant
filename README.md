@@ -6,7 +6,7 @@
 
 ### Citation & Usage
 If you use this code or the associated methodology, please cite as:
-**Sobhy et al. A Modular Deep Learning Framework for Spatial Subcellular Phenotyping and Multi-Channel Image Analytics (In Preparation).**
+**Sobhy. A Modular Deep Learning Framework for Spatial Subcellular Phenotyping and Multi-Channel Image Analytics (In Preparation).**
 
 For inquiries regarding Phase 2 modules or collaboration, please contact the author directly via GitHub.
 
