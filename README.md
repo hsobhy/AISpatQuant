@@ -15,9 +15,4 @@ This project is licensed under the **GNU Affero General Public License v3.0 (AGP
 
 *Note: This license requires that if you modify this software and run it on a network, you must make your modified source code available to your users. Non-commrcal users should contact the author.* 
 
-*Requirements*
-Python 3.8+
-Cellpose
-OpenCV
-Scikit-image
-Numpy / Matplotlib / Pandas
+*Requirements:* Python 3.8+, Cellpose, OpenCV, Scikit-image, and Numpy / Matplotlib / Pandas
